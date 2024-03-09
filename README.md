@@ -6,3 +6,4 @@ Retrieval augmented generation (RAG) comes is a general methodology for connecti
 Video playlist: 
 https://www.youtube.com/watch?v=wd7TZ4w1mSw&feature=youtu.be
  
+![Screenshot from 2024-03-09 07-29-42](https://github.com/intelligenxe/RAG/assets/61626108/efab2643-964d-4ddd-b76b-5b1182dcbd79)
